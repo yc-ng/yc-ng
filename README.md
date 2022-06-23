@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm YC</h1>
 <h3 align="left">Aspiring Data Analyst</h3>
 
-- 💬 Ask me about **Python, SQL**
+- 💬 Ask me about **Python, SQL, Business Intelligence, Data Modeling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
